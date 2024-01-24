@@ -1,0 +1,12 @@
+const String Banana = 'assets/image/banana.png';
+const String Cabbage = 'assets/image/cabbage.png';
+const String EggPlan = 'assets/image/eggplan.png';
+const String Lettue = 'assets/image/lettuce.png';
+const String Pottato = 'assets/image/pottato.png';
+const String Tomato = 'assets/image/tomato.png';
+const String promo = 'assets/image/promo.png';
+const String lottieAnimation = 'assets/lottie/lottie.json';
+const String loadingAnimation = 'assets/lottie/loading.json';
+const String cartAnimation = 'assets/lottie/cart.json';
+const String favouriteAnimation = 'assets/lottie/favourite.json';
+const String paymentDone = 'assets/lottie/done.json';
