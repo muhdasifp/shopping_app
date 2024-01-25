@@ -22,7 +22,6 @@ class CartController extends GetxController {
   RxDouble amount = 0.0.obs;
   RxInt badge = 0.obs;
 
-  BuildContext get context => context;
 
   @override
   void onInit() {
