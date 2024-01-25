@@ -19,7 +19,6 @@ class AuthController extends GetxController {
 
   var secure = true.obs;
 
-  BuildContext get context => context;
 
   @override
   void dispose() {
