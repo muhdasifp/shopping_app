@@ -17,7 +17,6 @@ class FavoriteController extends GetxController {
 
   RxList<dynamic> addFavList = RxList<Product>();
 
-  BuildContext get context => context;
 
   @override
   void onInit() {
